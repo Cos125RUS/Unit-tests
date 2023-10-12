@@ -1,4 +1,4 @@
-package seminars.first;
+package seminar.first;
 
 import org.assertj.core.api.Assertions;
 

@@ -1,4 +1,4 @@
-package seminars.first.Calculator;
+package seminar.first.Calculator;
 
 public class CalculatorTest {
     public static void main(String[] args) {

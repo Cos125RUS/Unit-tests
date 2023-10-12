@@ -1,8 +1,13 @@
-package seminars.first.Shop;
+package seminar.first.Shop;
 
 public class Product {
     private Integer cost; // Стоимость продукта
     private String title; // Название
+
+    public Product(Integer cost, String title) {
+        this.cost = cost;
+        this.title = title;
+    }
 
     // Геттеры, сеттеры:
     public int getCost() {
