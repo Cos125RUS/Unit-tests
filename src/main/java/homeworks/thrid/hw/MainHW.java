@@ -1,4 +1,4 @@
-package seminars.third.hw;
+package homeworks.thrid.hw;
 
 public class MainHW {
     public static void main(String[] args) {

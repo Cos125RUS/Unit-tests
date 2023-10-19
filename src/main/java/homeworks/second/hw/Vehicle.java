@@ -1,4 +1,4 @@
-package seminars.second.hw;
+package homeworks.second.hw;
 
 public abstract class Vehicle {
     private String company;

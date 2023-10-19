@@ -1,8 +1,10 @@
-package seminars.second.hw;
+package homeworks.second.hw;
 
+import homeworks.second.hw.Car;
+import homeworks.second.hw.Motorcycle;
+import homeworks.second.hw.Vehicle;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import seminars.second.hw.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
